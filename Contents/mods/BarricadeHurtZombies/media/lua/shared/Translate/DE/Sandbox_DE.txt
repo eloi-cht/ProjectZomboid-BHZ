@@ -1,0 +1,12 @@
+Sandbox_DE = {
+	Sandbox_BarricadeHurtZombies = "Barrikaden verletzen Zombies",
+	
+	Sandbox_BarricadeHurtZombies_BarricadeDamage = "Barrikadenschaden an Zombies",
+	Sandbox_BarricadeHurtZombies_BarricadeDamage_tooltip = "Schaden an Zombie pro Treffer auf der Barrikade. 0,5 entspricht etwa 1 Zombie pro Holzplanke.",
+	
+	Sandbox_BarricadeHurtZombies_HurtingBarricade = "Art der Barrikade, die Zombies beschädigt",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_tooltip = "Der Standardwert schließt nicht vom Spieler gebaute Objekte ein (z.B. Fenster, Türen, Garagentore...)"
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option1 = "Vom Spieler gebaute und bewegte Objekte",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option2 = "Alle",
+
+}

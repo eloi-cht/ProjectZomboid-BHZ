@@ -26,7 +26,7 @@ end
 
 local GameSpeedToDmgMultiplier = {1,5,20,40}
 local BHZ_THUMP_DMG = SandboxVars.BarricadeHurtZombies.BarricadeDamage / 100
-local BHZ_THUMP_FUNC = GetHurtingBarricade(SandboxVars.BarricadeHurtZombies.HurtingBarricade) 
+local BHZ_THUMP_FUNC = GetHurtingBarricade(SandboxVars.BarricadeHurtZombies.HurtingBarricade)
 
 local function HurtZombieThumping(x, y, z, radius, volume, source)
 	if instanceof(source, "IsoZombie") then
@@ -52,3 +52,10 @@ local function HurtZombieThumping(x, y, z, radius, volume, source)
 	end
 end
 Events.OnWorldSound.Add(HurtZombieThumping)
+
+local function OnLoad()
+	BHZ_THUMP_DMG = SandboxVars.BarricadeHurtZombies.BarricadeDamage / 100
+	BHZ_THUMP_FUNC = GetHurtingBarricade(SandboxVars.BarricadeHurtZombies.HurtingBarricade)
+end
+
+Events.OnLoad.Add(OnLoad)

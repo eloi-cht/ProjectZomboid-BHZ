@@ -1,0 +1,12 @@
+Sandbox_PTBR = {
+	Sandbox_BarricadeHurtZombies = "BarricadaMachucaZumbis",
+	
+	Sandbox_BarricadeHurtZombies_BarricadeDamage = "Dano de barricada em zumbis",
+	Sandbox_BarricadeHurtZombies_BarricadeDamage_tooltip = "Dano infligido em zumbis por golpe na barricada. 0.5 corresponde por 1 zumbi por tábua.",
+	
+	Sandbox_BarricadeHurtZombies_HurtingBarricade = "Tipo de barricada que dá dano em zumbis",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_tooltip = "Valor padrão não é incluído em objetos não construídos por jogadores (e.x. janela, portas, portas de garagem...)"
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option1 = "Objetos construídos e movidos por jogadores",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option2 = "Todos",
+
+}

@@ -1,0 +1,13 @@
+Sandbox_JP = {
+	Sandbox_BarricadeHurtZombies = "Barricade Hurt Zombies",
+	
+	Sandbox_BarricadeHurtZombies_BarricadeDamage = "ゾンビ与えるバリケードのダメージ",
+	Sandbox_BarricadeHurtZombies_BarricadeDamage_tooltip = "バリケードの一撃でゾンビにダメージ。0.5は木の板1枚につき、約1体のゾンビに対応する。",
+	
+	Sandbox_BarricadeHurtZombies_HurtingBarricade = "ゾンビを傷つけるバリケードのタイプ",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_tooltip = "デフォルト値は、プレイヤーが作ったものではないオブジェクト（例：窓、ドア、ガレージのドア...）を含まない。"
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option1 = "プレイヤーが作成したオブジェクトと移動したオブジェクト",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option2 = "すべて",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option3 = "防御のみ",
+
+}

@@ -2,35 +2,34 @@ version=1
 id=2913137598
 title=Barricade Hurt Zombies
 description=[h1] Mod Content [/h1]
-description=This mod makes zombies take damage from hitting barricade.
+description=This mod makes zombies take damage from thumping objects. This include anything they hit using thumping anim as shown in gif. 
 description=
 description=[b] You can add and remove it safely from games [/b]
-description=
-description=[b] Mechanic[/b]
-description=Each time a zombie inflict damage to a barricade it get hit in return.
 description=
 description=[b] Damage[/b]
 description=With default damage, a zombie will take 1-2 wooden plank before dying. It can be customized in sandbox options
 description=
 description=[b] Barricade Type[/b]
-description=There's 3 options available in sandbox settings.
+description=There's 3 options available in sandbox settings. Zombies receive damage from:
 description=[list]
-description=[*] 1. Zombies receive damage from any player-built and player-moved object they thump on. (Default)
-description=[*] 2. Zombies receive damage from thumping anything (e.g. Non player-built windows/doors, garage doors...)
-description=[*] 3. Zombies receive damage from modded defenses-only (e.g. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2927800433]Cheval de frise[/url])
+description=
+description=[*] Any player-built and player-moved object (Default)
+description=[*] Anything (e.g. Non player-built windows/doors, garage doors...)
+description=[*] Modded defenses only (e.g. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2927800433]Cheval de frise[/url])
 description=[/list]
 description=
 description=[h1]To modders[/h1]
-description=You can modify the barricade damage of a thumpable object, an example is available [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2920911679]here[/url].
+description=You can modify the barricade damage of a thumpable object, see Cheval de frise mod for an example.
 description=
 description=[h1] Multiplayer [/h1]
-description=This mod is compatible in multiplayer.
+description=Yes
 description=
 description=[h1] Compatibility [/h1]
 description=41. +
 description=Mods that modify Thump behavior are most likely incompatible, all others mods should be fine.
 description=
 description=[h1] Translation [/h1]
-description=EN/FR
+description=EN, FR, RU, UA, ES, JP, PTBR, DE
+description=Thanks to the translator ([url=https://steamcommunity.com/id/_wt_]WT[/url], [url=https://steamcommunity.com/profiles/76561198876374479]vicentun[\url], [url=https://steamcommunity.com/profiles/76561198889919857]Colossus_ND[/url], [url=https://steamcommunity.com/id/TheOrangekey]TheOrangekey[\url]
 tags=Build 41;Balance;Multiplayer;Realistic
 visibility=public
