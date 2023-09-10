@@ -1,0 +1,13 @@
+Sandbox_UA = {
+Sandbox_BarricadeHurtZombies = "Барикади шкодять зомбі",
+
+Sandbox_BarricadeHurtZombies_BarricadeDamage = "Шкода від барикад по зомбі",
+Sandbox_BarricadeHurtZombies_BarricadeDamage_tooltip = "Шкода по зомбі за одне влучання по барикаді. 0,5 відповідає приблизно 1 зомбі на дерев'яну дошку.",
+
+Sandbox_BarricadeHurtZombies_HurtingBarricade = "Тип барикад, що ранять зомбі",
+Sandbox_BarricadeHurtZombies_HurtingBarricade_tooltip = "Значення за замовчуванням не включає об'єкти, не побудовані гравцем (наприклад, вікна, двері, гаражні ворота...)."
+Sandbox_BarricadeHurtZombies_HurtingBarricade_option1 = Об'єкти, побудовані та переміщені гравцем",
+Sandbox_BarricadeHurtZombies_HurtingBarricade_option2 = "Всі",
+Sandbox_BarricadeHurtZombies_HurtingBarricade_option3 = "тільки на оборонному бар'єрі",
+
+} 

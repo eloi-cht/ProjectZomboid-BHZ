@@ -1,0 +1,13 @@
+Sandbox_RU = {
+Sandbox_BarricadeHurtZombies = "Баррикады вредят зомби",
+
+Sandbox_BarricadeHurtZombies_BarricadeDamage = "Урон от баррикад по зомби",
+Sandbox_BarricadeHurtZombies_BarricadeDamage_tooltip = "Урон по зомби за одно попадание по баррикаде. 0,5 соответствует примерно 1 зомби на деревянную доску.",
+
+Sandbox_BarricadeHurtZombies_HurtingBarricade = "Тип баррикад, ранящих зомби",
+Sandbox_BarricadeHurtZombies_HurtingBarricade_tooltip = "Значение по умолчанию не включает объекты, не построенные игроком (например, окна, двери, гаражные ворота...)."
+Sandbox_BarricadeHurtZombies_HurtingBarricade_option1 = "Объекты, построенные и перемещенные игроком",
+Sandbox_BarricadeHurtZombies_HurtingBarricade_option2 = "Все",
+Sandbox_BarricadeHurtZombies_HurtingBarricade_option3 = "только оборонительный барьер",
+
+}

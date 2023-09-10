@@ -1,0 +1,13 @@
+Sandbox_FR = {
+	Sandbox_BarricadeHurtZombies = "Barricade Hurt Zombies",
+	
+	Sandbox_BarricadeHurtZombies_BarricadeDamage = "Dégâts des barricades sur les zombies",
+	Sandbox_BarricadeHurtZombies_BarricadeDamage_tooltip = "Dégâts par coup du zombie sur la barricade. 0.5 correspond à environ un zombie par planche en bois.",
+	
+	Sandbox_BarricadeHurtZombies_HurtingBarricade = "Objets effectuant des dégâts",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_tooltip = "La valeur par defaut n'inclut pas les objets non construits/bougés par un joueur (fenêtres, portes, portes de garages...)",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option1 = "Barricades construites et objets bougés par un joueur",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option2 = "Tout",
+	Sandbox_BarricadeHurtZombies_HurtingBarricade_option3 = "Défenses seulement",
+
+}
